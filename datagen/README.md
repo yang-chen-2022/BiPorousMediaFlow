@@ -17,7 +17,7 @@ preparing AMITEX input files, processing AMITEX output, and handling VTK data.
 
 ## Requirements
 
-Running the complete workflow also requires AMITEX (https://amitexfftp.github.io/AMITEX/index.html), with the BRINKMAN extension (link to be provided),
+Running the complete workflow requires ([AMITEX](https://amitexfftp.github.io/AMITEX/index.html)) with the ([BRINKMAN extension](https://github.com/yang-chen-2022/amitex_brinkman)),
 `run-parts`, and `mpirun`, with a working AMITEX environment script and material
 library.
 
